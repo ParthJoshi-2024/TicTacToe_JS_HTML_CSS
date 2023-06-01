@@ -1,0 +1,7 @@
+button{
+    height: 80px;
+    width: 80px;
+    background-color: bisque;
+    cursor: grab;
+    font-size: 40px;
+}
